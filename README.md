@@ -13,5 +13,5 @@ Before creating a new issue please make sure that same or similar issue is not a
 <li>Create new issue</li>
 </ul>
 <p>The application is licensed under <a href="http://www.gnu.org/licenses/gpl-3.0.txt">GPLv3</a></p>
-<p>– Andrew Chelladurai</p>
+<p>– Wilson Osuji</p>
 # simple-bible-app
